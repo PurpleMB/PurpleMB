@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PurpleMB
 - 👀 I’m interested in Game Development, Software Engineering, and Graphics Programming
 - 🌱 I’m currently learning Shaders and Unity
-- 📫 You can reach out to me at my <a href="purplemb816@gmail.com" target="_blank">email</a>
+- 📫 You can reach out to me at my GitHub email: purplemb816@gmail.com
 - 🎮 You can play my projects on my <a href="https://purpleml.itch.io/" target="_blank">Itch.io</a>
 - ⚡ Fun fact: ...
 
