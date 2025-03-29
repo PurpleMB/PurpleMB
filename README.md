@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Shaders and Unity
 - 📫 You can reach out to me at my GitHub email: purplemb816@gmail.com
 - 🎮 You can play my projects on my <a href="https://purpleml.itch.io/" target="_blank">Itch.io</a>
-- ⚡ Fun fact: ...
 
 <!---
 PurpleMB/PurpleMB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
